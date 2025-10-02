@@ -20,9 +20,9 @@ Repository for the team homework in MMED 1054.
 
 ### My Favourite Movies
 
-- Mad Max: Fury Road
-- Blade Runner 2049
-- Joker
+- *Mad Max: Fury Road*
+- *Blade Runner 2049*
+- *Joker*
 
 ## Installation
 No installation required.
