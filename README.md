@@ -1,6 +1,6 @@
 # Hello, I'm David
 
-![Shadow](/Users/david_andres/Desktop/Shadow.jpeg)
+![Shadow](images/Shadow.jpeg)
 
 Hello, my full name is David Andrés Cerón Chingual.
 I'm 19, and my birthday is the 6th of September.
