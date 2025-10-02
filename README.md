@@ -1,6 +1,30 @@
 # Homework-1-MMED1054
 Repository for the team homework in MMED 1054.
 
+
+## Jordan Chuquillanqui - About Me
+
+![Image](images/Boca.jpg)
+
+### Name & more info about me
+
+- My full name is Jordan Stefano Chuquillanqui Guerra.
+- I am from Peru
+- My birthday is on Christmas day, and I am 28 years old.
+
+### Hobies
+
+- Watch movie trailers to discover music.
+- Collect stickers of all kinds.
+- Take photos at sports events.
+- Go snowboarding
+
+### My Favourite Movies
+
+- Mad Max: Fury Road
+- Blade Runner 2049
+- Joker
+
 ## Installation
 No installation required.
 
@@ -22,4 +46,4 @@ Not available.
 - David Cerón
 
 ## License
-No license.
+See licence file.
