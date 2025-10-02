@@ -1,6 +1,8 @@
-# David
-## Hello
+# Wassup, I'm David
 
-<body>
-    <h1>David</h1>
-</body>
+![Shadow](/Users/david_andres/Desktop/Shadow.jpeg )
+
+Hello, my full name is David Andrés Cerón Chingual.
+I'm 19, and my birthday is the 6th of September.
+I was born in Colombia, in the city of Pasto. I moved to Canada in August 2024 with my mother and my dog, Shadow, who is the fella of the image.
+I enjoy drawing, reading manga, riding bike, martial arts, and spending time with my dog.
