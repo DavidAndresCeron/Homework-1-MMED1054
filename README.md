@@ -15,9 +15,8 @@ Repository for the team homework in MMED 1054.
 ### Hobies
 
 - Watch movie trailers to discover music.
-- Collect stickers of all kinds.
-- Take photos at sports events.
-- Go snowboarding.
+- Travel and collect stickers of all kinds.
+- Go snowboarding and take photos at sports events.
 
 ### My Favourite Movies
 
