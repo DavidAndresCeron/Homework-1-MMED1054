@@ -9,7 +9,7 @@ Repository for the team homework in MMED 1054.
 ### Name & more info about me
 
 - My full name is Jordan Stefano Chuquillanqui Guerra.
-- I am from Peru
+- I am from Peru.
 - My birthday is on Christmas day, and I am 28 years old.
 
 ### Hobies
@@ -17,7 +17,7 @@ Repository for the team homework in MMED 1054.
 - Watch movie trailers to discover music.
 - Collect stickers of all kinds.
 - Take photos at sports events.
-- Go snowboarding
+- Go snowboarding.
 
 ### My Favourite Movies
 
