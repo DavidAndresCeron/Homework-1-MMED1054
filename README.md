@@ -1,4 +1,4 @@
-# Wassup, I'm David
+# Hello, I'm David
 
 ![Shadow](/Users/david_andres/Desktop/Shadow.jpeg)
 
