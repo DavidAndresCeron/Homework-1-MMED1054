@@ -10,6 +10,7 @@ I'm 19, and my birthday is the 6th of September.<br>
 I was born in Colombia, in the city of Pasto. I moved to Canada in August 2024 with my mother and my dog, Shadow, who is the fella of the image.<br>
 I enjoy drawing, reading manga, riding bike, martial arts, and spending time with my dog.
 
+---
 
 ## Jordan Chuquillanqui - About Me
 
@@ -21,7 +22,7 @@ I enjoy drawing, reading manga, riding bike, martial arts, and spending time wit
 - I am from Peru.
 - My birthday is on Christmas day, and I am 28 years old.
 
-### Hobies
+### Hobbies
 
 - Watch movie trailers to discover music.
 - Travel and collect stickers of all kinds.
